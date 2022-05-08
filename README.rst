@@ -1,15 +1,3 @@
-Metadata-Version: 2.1
-Name: hmfull
-Version: 1.0.3
-Summary: UNKNOWN
-Home-page: https://github.com/ProgrammerIn-wonderland/hmfullpy
-Author: Alice Addison
-Author-email: alice@alicesworld.tech
-License: ISC
-Keywords: anime,hentai,nsfw,sfw,images,gifs,wallpaper,discord,ahegao,ass,neko,kitsune,yuri,panties,thighs,foot,overwatch,dva,erotic,lewdkemo,lewdneko,lewdkitsune,holo,bj,spank,ero,kawaii,cute,waifu,hmtai,zettaiRyouiki,18+,REST,API,Mikun
-Platform: UNKNOWN
-Description-Content-Type: text/x-rst
-
 HMFULL
 ======
 
@@ -269,5 +257,3 @@ Function Description
 ======== =============================================
 nekolewd Neko? Lewd Neko? GIVE ME ALL THAT YOU HAVE!!!
 ======== =============================================
-
-
